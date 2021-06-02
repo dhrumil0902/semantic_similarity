@@ -1,6 +1,3 @@
-# No need to thank me but if you really want to express your gratitude 
-# feel free to get me some BBT once covid has passed :)
-# Also don't even try looking at this code it's f****** disgusting
 
 import socket, threading, json, contextlib, io, time
 from random import *
