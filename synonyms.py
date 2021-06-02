@@ -134,8 +134,7 @@ def run_similarity_test(filename, semantic_descriptors, similarity_fn):
         if ans == s[i][1]:
             num_correct += 1
     return num_correct/num_questions*100
-
-print(run_similarity_test('sample_test.txt', dict, cosine_similarity))
+# print(run_similarity_test('sample_test.txt', dict, cosine_similarity))
 
 
 
